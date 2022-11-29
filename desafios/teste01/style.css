@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+
+:root {
+    color: white;
+}
+
+body {
+    background-color: gray;
+    margin: 0px;
+}
+
+main {
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+
+    width: 1280px;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    columns: 2;
+    padding: 120px;
+}
+
+div {
+    padding: 100px 200px 100px 0px ;
+}
+
+footer {
+    background-color: rgba(29, 25, 240, 0.473);
+    padding: 10px;
+    text-align: center;
+}
+
+footer a {
+    color: rgb(21, 238, 13);
+    text-decoration: none;
+}
